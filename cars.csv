@@ -1,0 +1,7 @@
+
+make,fuel,aspiration,body-style,price,engine-size
+audi,gas,turbo,sedan,30000,2.0
+dodge,gas,std,sedan,17000,1.8
+mazda,diesel,std,sedan,17000,NaN
+porsche,gas,turbo,convertible,120000,6.0
+volvo,diesel,std,sedan,25000,2.0
